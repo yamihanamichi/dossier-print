@@ -1,0 +1,7 @@
+<div id="carrousel">
+		<div id="container">
+
+		</div>			
+		<img src="./assets/images/logo.png" class="bouton" id="d" />
+		<img src="./assets/images/logo.png" class="bouton" id="g" />
+	</div>
